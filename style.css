@@ -1,0 +1,39 @@
+
+body{
+font-family: Arial;
+text-align: center;
+background-image: url('pic.jpg');
+background-size: cover;
+}
+
+h1{
+margin-top: 30px;
+}
+
+.board{
+display: grid;
+grid-template-columns: repeat(3, 100px);
+gap: 5px;
+justify-content: center;
+margin-top: 20px;
+}
+
+.cell{
+width: 100px;
+height: 100px;
+background-color: rgb(223, 147, 92);
+border: 2px solid black;
+border-radius: 20%;
+font-size: 40px;
+display: flex;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+}
+
+button{
+margin-top: 20px;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+}
