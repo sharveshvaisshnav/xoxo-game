@@ -1,4 +1,3 @@
-# xoxo-game
 # XOXO Game (Tic-Tac-Toe)
 
 A clean, lightweight, and interactive Tic-Tac-Toe (XOXO) web application built using vanilla JavaScript, HTML5, and CSS3. 
